@@ -1,0 +1,4 @@
+将nuScenes数据集中的环视相机图像与其对应的位置坐标提取出来，按场景分别保存在不同的csv文件中
+
+csv文件路径：data\nuscenes\image_scenes
+场景序号：000——849

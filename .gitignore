@@ -1,0 +1,13 @@
+__pycache__/
+.vscode/
+weights/
+*.db
+*.gpkg
+*.npz
+*.pt
+*.txt
+*.zip
+*yaw.py
+dissertation/
+logs/
+*.csv
